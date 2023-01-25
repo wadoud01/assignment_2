@@ -19,6 +19,6 @@ all these 3 nodes are located in assignment_2_2022/scripts
 to run the ROS you need first to build the world by inserting catkin_make then you can launch the ROS by just pressing assignment_2_2022 assignment1.launch
 #How to use the user interface
 The use is asked to insert the desired position X and Y. or in case wanna cancel just press "Cancel"
-#Flowchart of our program
+# Flowchart of our program
 The flow chart will sent by an email.
 
