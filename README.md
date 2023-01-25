@@ -1,5 +1,5 @@
 # Description of the program
-
+ROS is an open-source framework for developing and managing robotic systems that provides a set of tools and libraries for creating complex robotic applications. It includes publisher and subscriber for sending and receiving data, action client for requesting and receiving results from a server, launch file for starting and configuring nodes, custom service for creating new request-response pattern and custom message for sending data between nodes. These features enable communication between different parts of a robotic system, making it easy to create, test and launch complex robotic applications.
 ## USED PACKAGES:
 - Scripts : contains node a, b, c
 - msg : costumised msg counter.msg 
