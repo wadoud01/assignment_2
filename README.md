@@ -26,5 +26,5 @@ These are the following fllow chart in order.
 - node(c) : counter.py resiponsilbe for counting number of goals reached and canceled.
 
 ![node (a)](https://user-images.githubusercontent.com/116806672/214814681-9e90a58f-83cc-4230-bad3-3b447b598840.png)
-![node (a)](https://user-images.githubusercontent.com/116806672/214814707-21044c36-a849-4364-a935-3314a71c9b6b.png)
+![node(b)](https://user-images.githubusercontent.com/116806672/214817145-d0bdd66c-c59b-4708-b713-eab89ec3239a.png)
 ![node(c)](https://user-images.githubusercontent.com/116806672/214814727-d013ac3e-eb26-476a-8f21-3b74f64375bc.png)
