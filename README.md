@@ -22,7 +22,7 @@ The use is asked to insert the desired position X and Y. or in case wanna cancel
 # Flowchart of our program
 These are the following fllow chart in order. 
 - node(a) : represents the control.py node which takes the position x and y from the user.
-- node(b) : rob_info.py which responsible for calculating the averge speed and distance.
+- node(b) : rob_info.py which responsible for calculating the averge speed and distance. (note in first desicion the arrow should go the next desicion we appologies abouthe mistake) 
 - node(c) : counter.py resiponsilbe for counting number of goals reached and canceled.
 
 ![node (a)](https://user-images.githubusercontent.com/116806672/214814681-9e90a58f-83cc-4230-bad3-3b447b598840.png)
