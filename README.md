@@ -22,8 +22,6 @@ The use is asked to insert the desired position X and Y. or in case wanna cancel
 # Flowchart of our program
 The flow chart will sent by an email.
 
-![node (a)](https://user-images.githubusercontent.com/116806672/214813927-72824735-a301-46f1-91bd-808334128c2a.png)
-![node(b)](https://user-images.githubusercontent.com/116806672/214813943-053b7fc3-9c56-42e5-87c2-b88ca266c709.png)
-![node(c)](https://user-images.githubusercontent.com/116806672/214813981-98842db3-3d4e-4d72-9b84-32ae2f706997.png)
-
-
+![node (a)](https://user-images.githubusercontent.com/116806672/214814681-9e90a58f-83cc-4230-bad3-3b447b598840.png)
+![node (a)](https://user-images.githubusercontent.com/116806672/214814707-21044c36-a849-4364-a935-3314a71c9b6b.png)
+![node(c)](https://user-images.githubusercontent.com/116806672/214814727-d013ac3e-eb26-476a-8f21-3b74f64375bc.png)
